@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "examples\\dmd_clock_readout\\dmd_clock_readout.ino"
+}
